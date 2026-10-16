@@ -176,11 +176,13 @@ A curated list of awesome CLI tools.
 - [mcfly] - Interactive shell history browser
 - **[supercli](https://github.com/javimosch/supercli)** - Universal CLI router with 7,000+ plugins. One command pattern (`ns res action`) for every tool. JSON-by-default output, agent-native discovery.
 - [hyperfine] - Command-line benchmarking tool
+- [behave] - Record CLI behavior and replay it against a rewrite
 - [up] - Pipes with instant live preview
 
 [zoxide]: https://github.com/ajeetdsouza/zoxide
 [mcfly]: https://github.com/cantino/mcfly
 [hyperfine]: https://github.com/sharkdp/hyperfine
+[behave]: https://github.com/emirmrkaljevic/behave
 [up]: https://github.com/akavel/up
 
 
